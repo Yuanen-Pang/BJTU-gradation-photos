@@ -24,7 +24,7 @@ Here are some details about gradation dataset:
 
    ![image-20230118091907607](dir_structure.png)
 
-   <center><b>Fig.1 The structure of the database</b></center>
+   <p align="center"><b>Fig.1 The structure of the database</b></p>
 
 2. In “YellowRiverSilt” directory, there are 393 sub-directories. 
 

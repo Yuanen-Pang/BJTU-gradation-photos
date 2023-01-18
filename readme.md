@@ -22,7 +22,7 @@ Here are some details about gradation dataset:
 
 1. The following Fig.1 shows the structure of directory. 
 
-   ![image-20230118091907607](C:\Users\18044\AppData\Roaming\Typora\typora-user-images\image-20230118091907607.png)
+   ![image-20230118091907607](dir_structure.png)
 
    <center><b>Fig.1 The structure of the database</b></center>
 

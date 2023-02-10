@@ -10,7 +10,7 @@
 
 ## Copyright and data sharing policy
 
-​	You can freely download and use this database for scientific research and other non-commercial purposes. When you use this database, you must declare the source of data, as the following form: “Great thanks is giving to ***BJTU gradation photos*** shared by Xu Li’s research team from Beijing Jiaotong University. The detailed introduction of this database can be found in the following journal Paler: A Study on recognition model of coarse-grained soil based on Searcher-Analyser deep learning algorithm(SaNet)”. If you wish to use this database in commercial purpose, please contact with [cexuli2012@gmail.com](mailto:cexuli2012@gmail.com) and ask for the permission.
+​	You can freely download and use this database for scientific research and other non-commercial purposes. When you use this database, you must declare the source of data, as the following form: “Great thanks is giving to ***BJTU gradation photos*** shared by Xu Li’s research team from Beijing Jiaotong University. The detailed introduction of this database can be found in the following journal Paler: Recognizing gradations of coarse soils 674 based on big artificial samples and deep learning”. If you wish to use this database in commercial purpose, please contact with [cexuli2012@gmail.com](mailto:cexuli2012@gmail.com) and ask for the permission.
 
 ## Introduction
 

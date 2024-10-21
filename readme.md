@@ -40,6 +40,10 @@ Here are some details about gradation dataset:
 
 6. In QuartzSand, two sub-directories(0.00_0.00_0.00_0.00_0.00_100.00 and 100.00_0.00_0.00_0.00_0.00_0.00)are repeated some times, so we name them 0.00_0.00_0.00_0.00_0.00_100.00@2、0.00_0.00_0.00_0.00_0.00_100.00@3 and et al. In fact, the photos contained in repeated directory are different, you needn't to worry.
 
+   ## Citation
+   
+   Pang, Y. E., Li, X., & Chen, Z. Y. (2024). Recognizing gradations of coarse soils based on big artificial samples and deep learning. Soils and Foundations, 64(6), 101526. https://doi.org/10.1016/j.sandf.2024.101526
+   
    ## Contact information
 
    [cexuli2012@gmail.com](mailto:cexuli2012@gmail.com)
